@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Cantrill.io Course Runtime & Progress Tracker
 // @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Embed course runtime and remaining time in sidebar, visually consistent with existing design
+// @version      2.0
+// @description  Enhanced course runtime tracking with video-based progress calculation for more accurate time estimates
 // @author       Neil Bryan
 // @match        https://learn.cantrill.io/p/*
 // @match        https://learn.cantrill.io/courses/*
